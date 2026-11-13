@@ -1,4 +1,4 @@
-# TeaGuardian — «Соседская помощь» (MVP)
+Neighborly-assistance-main
 
 Мобильный клиент (Kivy → APK через Buildozer) + REST-сервер на стандартной библиотеке Python.
 Основа — документы Vision и SAD: Clean Architecture + MVVM.
